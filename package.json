@@ -1,0 +1,15 @@
+{
+  "name": "hayecss",
+  "version": "1.0.1",
+  "description": "Lightweight utility-first CSS engine",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords": [
+    "css",
+    "tailwind",
+    "utility",
+    "js"
+  ],
+  "author": "Himanshu",
+  "license": "MIT"
+}
